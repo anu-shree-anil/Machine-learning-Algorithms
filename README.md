@@ -11,3 +11,5 @@ Supervised Learning Algorithms:
 
 Unsupervised Learning Algorithms:
 1. K-mean Clustering
+2. K-medoid Clustering
+3. Fuzzy C means Clustering
